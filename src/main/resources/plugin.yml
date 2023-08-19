@@ -1,0 +1,4 @@
+name: waitplugin
+version: '${version}'
+main: org.noot.waitplugin.Waitplugin
+api-version: '1.17'
